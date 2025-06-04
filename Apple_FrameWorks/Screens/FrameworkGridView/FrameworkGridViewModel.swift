@@ -11,8 +11,8 @@ import SwiftUI
          
      let columns: [GridItem]=[GridItem(.flexible()),GridItem(.flexible()),GridItem(.flexible())]
      
-     var selectedFramework: Framework? {
-         didSet{isShowingDetailView = true}
-     }
-    @Published var isShowingDetailView = false
+//     var selectedFramework: Framework? {
+//         didSet{isShowingDetailView = true}
+//     }
+//    @Published var isShowingDetailView = false
 }
