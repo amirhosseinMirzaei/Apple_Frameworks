@@ -4,5 +4,8 @@ WeatherApp is a simple and elegant weather application built with Swift. It fetc
 
 ## Screenshots
 
-### Home Screen
-![Home Screen](images/1.png)
+<p align="center">
+  <img src="screenshot/2.png" alt="Home Screen" width="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshot/1.png" alt="Forecast Screen" width="200"/>
+</p>
